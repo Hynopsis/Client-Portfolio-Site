@@ -254,7 +254,7 @@
 			
 			<div id="present" class="tab-pane fade">
 			  <!--* section for showcasing information design work*-->
-				<div class="row projectContent marginBotLarge ">
+				<div class="row projectContent marginBotLarge padTopSm">
 					<!-- logo continuation no need for heading -->
 					
 					<div class="col-md-4 col-sm-4 col-xs-12" id="power1"> 
@@ -320,7 +320,7 @@
 		  <!--ART TAB-->
 		  <div id="art" class="tab-pane fade">
 			
-				<div class="row projectContent ">
+				<div class="row projectContent padTopSm ">
 					<!-- logo continuation no need for heading -->
 					<div class="col-md-6 col-sm-6 col-xs-12" id="art1"> 
 						<a href="img/art1.png" class="thumbnail" data-lightbox="image-25" >
